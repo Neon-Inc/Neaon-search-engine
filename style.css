@@ -1,0 +1,24 @@
+
+
+input[type=text] {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;}
+
+.text {text-align: center;}
+
+
+body {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
+
+body {
+    background-image: url("background.jpg");
+   }
+
+   body {color: rgb(67, 63, 63);}
